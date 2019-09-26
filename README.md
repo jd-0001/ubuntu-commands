@@ -14,3 +14,7 @@ List of useful ubuntu commands
 [ - ] <= Stopped
   
 [ ? ] <= without a 'status' command
+
+## File Management
+
+**Remove only directory within folder:** `rm -r */`
