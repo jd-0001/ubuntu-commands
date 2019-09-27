@@ -26,3 +26,9 @@ List of useful ubuntu commands
 # mv <file> <file> ... <folder_name>
 mv config.py main.py other.py backup
 ```
+  
+**Copy multiple files:** `cp file_name file_name folder_name`
+```bash
+# cp <file> <file> ... <folder_name>
+cp config.py main.py other.py backup
+```
